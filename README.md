@@ -1,4 +1,5 @@
 Hi there, I'm Noluthando Duma! 👋
+m![IMG_20240702_185734 (1)](https://github.com/user-attachments/assets/fde2d14e-ef98-4dc3-8480-020994b5982e)
 
 About Me 
 
