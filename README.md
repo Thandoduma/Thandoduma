@@ -1,5 +1,6 @@
 Hi there, I'm Noluthando Duma! 👋
-![IMG_20240702_185734 (1)](https://github.com/user-attachments/assets/fde2d14e-ef98-4dc3-8480-020994b5982e)
+<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/d31d3e67-703d-41cc-966e-fa647ffec915" />
+
 
 About Me 
 
@@ -8,6 +9,19 @@ I’m an aspiring Cybersecurity & Backend Developer with a background in Industr
 🌱 Currently learning: Cybersecurity (SOC Analysis, SIEM, Threat Detection), Backend Development (APIs, Databases), and Cloud Fundamentals
 
 🔭 Working on: Developing the Engen CSI Alumni Networking Platform (full-stack project applying backend skills with Supabase and frontend builds in Bolt) and building out my cybersecurity labs portfolio.
+
+
+ Tech Stack
+<p>
+  <!-- Example: -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
 
 🌍 Languages: Python, JavaScript, SQL, HTML/CSS | Human languages: English, isiZulu
 
