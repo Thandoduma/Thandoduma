@@ -5,11 +5,11 @@ Hi there, I'm Noluthando Duma! 👋
 
 About Me 
 
-I’m an aspiring Cybersecurity & Backend Developer with a background in Industrial Psychology and current hands-on experience as a Systems Development Learner at Engen. I’m passionate about building secure, user-friendly applications, learning cutting-edge technologies, and documenting my journey through content writing.
+I’m an aspiring Cybersecurity analyst & Backend Developer with a background in Industrial Psychology and current hands-on experience as a Systems Development Learner at Engen. I’m passionate about building secure, user-friendly applications, learning cutting-edge technologies, and documenting my journey through content writing.
 
 🌱 Currently learning: Cybersecurity (SOC Analysis, SIEM, Threat Detection), Backend Development (APIs, Databases), and Cloud Fundamentals
 
-🔭 Working on: Developing the Engen CSI Alumni Networking Platform (full-stack project applying backend skills with Supabase and frontend builds in Bolt) and building out my cybersecurity labs portfolio.
+🔭 Working on: Developing the Engen CSI Alumni Networking Platform (full-stack project) and building out my cybersecurity labs portfolio.
 
 
  Tech Stack
@@ -27,12 +27,12 @@ I’m an aspiring Cybersecurity & Backend Developer with a background in Industr
 🌍 Languages: Python, JavaScript, SQL, HTML/CSS | Human languages: English, isiZulu
 
 📫 How to reach me: thandobi24@gmail.com / on linkedin via - 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/noluthando-duma-053b90262/?utm_source) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noluthando-duma-053b90262/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thandobi24)
 
 
 
-⚡ Fun fact: I blend my psychology background with tech — because cybersecurity is as much about people as it is about systems.
+⚡ Fun fact: I blend my psychology background with tech — because tech is as much about people as it is about systems.
 -->
 
 
