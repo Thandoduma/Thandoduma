@@ -29,7 +29,7 @@ I’m an aspiring Cybersecurity analyst & Backend Developer with a background in
 📫 How to reach me: thandobi24@gmail.com / on linkedin via - 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noluthando-duma-053b90262/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thandobi24)
-
+[![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ThandoD81654)
 
 
 ⚡ Fun fact: I blend my psychology background with tech — because tech is as much about people as it is about systems.
