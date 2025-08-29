@@ -27,8 +27,9 @@ I’m an aspiring Cybersecurity & Backend Developer with a background in Industr
 🌍 Languages: Python, JavaScript, SQL, HTML/CSS | Human languages: English, isiZulu
 
 📫 How to reach me: thandobi24@gmail.com / on linkedin via - 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](yourlinkedinurl) 
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https:/www.linkedin.com/in/noluthando-duma-053b90262/?utm_source) 
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thandobi24)
+
 
 
 ⚡ Fun fact: I blend my psychology background with tech — because cybersecurity is as much about people as it is about systems.
