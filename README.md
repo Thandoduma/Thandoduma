@@ -1,4 +1,5 @@
 Hi there, I'm Noluthando Duma! 👋
+
 <img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/d31d3e67-703d-41cc-966e-fa647ffec915" />
 
 
@@ -25,7 +26,16 @@ I’m an aspiring Cybersecurity & Backend Developer with a background in Industr
 
 🌍 Languages: Python, JavaScript, SQL, HTML/CSS | Human languages: English, isiZulu
 
-📫 How to reach me: thandobi24@gmail.com
+📫 How to reach me: thandobi24@gmail.com / on linkedin via - 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](yourlinkedinurl) 
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
+
 
 ⚡ Fun fact: I blend my psychology background with tech — because cybersecurity is as much about people as it is about systems.
 -->
+
+## 🔹 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="150"/>
+</p>
