@@ -9,7 +9,7 @@ I’m an aspiring Cybersecurity analyst & Backend Developer with a background in
 
 🌱 Currently learning: Cybersecurity (SOC Analysis, SIEM, Threat Detection), Backend Development (APIs, Databases), and Cloud Fundamentals
 
-🔭 Working on: Developing the Engen CSI Alumni Networking Platform (full-stack project) and building out my cybersecurity labs portfolio.
+🔭 Working on: Developing the Engen CSI Alumni Networking Platform (AI application) and building out my cybersecurity labs portfolio.
 
 
  Tech Stack
