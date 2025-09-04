@@ -17,6 +17,7 @@ I’m an aspiring Cybersecurity analyst & Backend Developer with a background in
   <!-- Example: -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  [![Bolt.new](https://img.shields.io/badge/⚡-Bolt.new-blueviolet?style=for-the-badge)](https://bolt.new)
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
