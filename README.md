@@ -22,7 +22,7 @@ I’m an aspiring Cybersecurity analyst & Backend Developer with a background in
 </p>
 
 
-🌍 Languages: Python, JavaScript, SQL, HTML/CSS | Human languages: English, isiZulu
+🌍 Languages: Python, SQL, HTML/CSS | Human languages: English, isiZulu
 
 📫 How to reach me: thandobi24@gmail.com / on linkedin via - 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noluthando-duma-053b90262/)
