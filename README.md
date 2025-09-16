@@ -12,7 +12,7 @@ I'm currently part of the ALX Backend Web Development program, and I also enjoy 
 
 🌱 Currently learning: Cybersecurity (SOC Analysis, SIEM, Threat Detection), Backend Development (APIs, Databases), artificial intelligence and Cloud Fundamentals
 
-🔭 Working on: cool projects for my portfolio that reflect my intrests 
+🔭 Working on: cool projects for my portfolio that reflect my interests 
               
 
  Tech Stack
