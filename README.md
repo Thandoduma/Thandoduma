@@ -1,6 +1,6 @@
 Hi there, I'm Noluthando Duma! 👋
 
-<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/d31d3e67-703d-41cc-966e-fa647ffec915" />
+<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner (3)" src="https://github.com/user-attachments/assets/4cbcc87f-34a7-4900-baeb-322a17e70fc5" />
 
 
 About Me 
