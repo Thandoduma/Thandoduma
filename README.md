@@ -5,11 +5,14 @@ Hi there, I'm Noluthando Duma! 👋
 
 About Me 
 
-I’m an aspiring Cybersecurity analyst & Backend Developer with a background in Industrial Psychology and current hands-on experience as a Systems Development Learner at Engen. I’m passionate about building secure, user-friendly applications, learning cutting-edge technologies, and documenting my journey through content writing. Im also currently apart of the  Alx Backend Web development program
+I'm a tech enthusiast passionate about creating user-centered applications. My interests include product design, cybersecurity, and programming.
 
-🌱 Currently learning: Cybersecurity (SOC Analysis, SIEM, Threat Detection), Backend Development (APIs, Databases), and Cloud Fundamentals
+With a background in Industrial Psychology and hands-on experience as a Systems Development Learner at Engen, I'm focused on building secure, user-friendly applications.
+I'm currently part of the ALX Backend Web Development program, and I also enjoy documenting my journey and what I learn through writing. 
 
-🔭 Working on: Developing the Engen CSI Alumni Networking Platform (AI application) and building out my cybersecurity labs portfolio.
+🌱 Currently learning: Cybersecurity (SOC Analysis, SIEM, Threat Detection), Backend Development (APIs, Databases), artificial intelligence and Cloud Fundamentals
+
+🔭 Working on: cool projects for my portfolio that reflect my intrests 
               
 
  Tech Stack
