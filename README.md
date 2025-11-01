@@ -5,10 +5,10 @@ Hi there, I'm Noluthando Duma! 👋
 
 About Me 
 
-I'm a tech enthusiast passionate about creating user-centered applications. My interests include product design, cybersecurity, and programming.
+I'm a tech enthusiast passionate about creating user-centered applications. My interests include cybersecurity, data and cloud computing. 
 
 With a background in Industrial Psychology and hands-on experience as a Systems Development Learner at Engen, I'm focused on building secure, user-friendly applications.
-I'm currently part of the ALX Backend Web Development program, and I also enjoy documenting my journey and what I learn through writing. 
+I'm currently part of the ALX cybersecurity program, and I also enjoy documenting my journey and what I learn through writing. 
 
 🌱 Currently learning: Cybersecurity (SOC Analysis, threat intelligence & Threat Detection), Backend Development (APIs, Databases), artificial intelligence and Cloud Fundamentals
 
