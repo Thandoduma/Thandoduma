@@ -5,16 +5,14 @@ Hi there, I'm Noluthando Duma! 👋
 
 About Me 
 
-I'm a tech enthusiast passionate about creating user-centered applications. My interests include cybersecurity, data and cloud computing. 
-
-With a background in Industrial Psychology and hands-on experience as a Systems Development Learner at Engen, I'm focused on building secure, user-friendly applications.
-I'm currently part of the ALX cybersecurity program, and I also enjoy documenting my journey and what I learn through writing. 
-
-🌱 Currently learning: Cybersecurity (SOC Analysis, threat intelligence & Threat Detection), Backend Development (APIs, Databases), artificial intelligence and Cloud Fundamentals
-
-🔭 Working on: cool projects for my portfolio that reflect my interests 
+I'm a social science graduate with a keen interest in how technology shapes human behavior and decision-making. My background in behavioral science, combined with growing technical literacy, allows me to bridge the gap between people and systems.
+I'm particularly fascinated by behavioral science and artificial intelligence – exploring how AI can be designed with human-centered principles and how we can better understand technology's impact on society.
+Currently, I'm developing my data analysis skills (building on foundations from university) and learning about cybersecurity – not as a specialization, but because I believe everyone should understand how to protect their digital information in an increasingly connected world.
+With hands-on experience as a Systems Development Learner at Engen and a background mentoring in AI literacy programs, I enjoy working at the intersection of technology, research, and practical problem-solving.
+🌱 Currently exploring: Data analysis & visualization, AI applications in social research, digital security fundamentals
+🔭 Interested in: International development, policy research, human-centered technology design, and the evolving role of data in understanding complex social issues
+📝 I also enjoy documenting what I learn and sharing insights through writing.
               
-
  Tech Stack
 <p>
   <!-- Example: -->
@@ -29,7 +27,7 @@ I'm currently part of the ALX cybersecurity program, and I also enjoy documentin
 
 📫 How to reach me: thandobi24@gmail.com / on linkedin via - 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noluthando-duma-053b90262/)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thandobi24)
+[![Substack Badge](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://thandobi24.substack.com/)
 [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ThandoD81654)
 
 
