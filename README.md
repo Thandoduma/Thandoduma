@@ -27,7 +27,7 @@ With hands-on experience as a Systems Development Learner at Engen and a backgro
 
 📫 How to reach me: thandobi24@gmail.com / on linkedin via - 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noluthando-duma-053b90262/)
-[![Substack Badge](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://thandobi24.substack.com/)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@nonicherebel)
 [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ThandoD81654)
 
 
