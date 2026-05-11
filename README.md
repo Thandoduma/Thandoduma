@@ -23,7 +23,7 @@ With hands-on experience as a Systems Development Learner at Engen and a backgro
 </p>
 
 
-🌍 Languages: Python, SQL, HTML/CSS | Human languages: English, isiZulu
+🌍 Languages: Python, HTML/CSS | Human languages: English, isiZulu
 
 📫 How to reach me: thandobi24@gmail.com / on linkedin via - 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noluthando-duma-053b90262/)
