@@ -11,7 +11,7 @@ Currently, I'm developing my data analysis skills (building on foundations from 
 With hands-on experience as a Systems Development Learner at Engen and a background mentoring in AI literacy programs, I enjoy working at the intersection of technology, research, and practical problem-solving.
 🌱 Currently exploring: Data analysis & visualization, AI applications in social research, digital security fundamentals
 🔭 Interested in: International development, policy research, human-centered technology design, and the evolving role of data in understanding complex social issues
-📝 I also enjoy documenting what I learn and sharing insights through writing.
+
               
  Tech Stack
 <p>
@@ -27,7 +27,6 @@ With hands-on experience as a Systems Development Learner at Engen and a backgro
 
 📫 How to reach me: thandobi24@gmail.com / on linkedin via - 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noluthando-duma-053b90262/)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@nonicherebel)
 [![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ThandoD81654)
 
 
